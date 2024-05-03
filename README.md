@@ -1,11 +1,19 @@
 
+# 🎧 🌲 "Advanced Neural Techniques for Audio Analysis and Processing under the guidance of Professor Preethi Jyothi"
+![Advanced Neural Techniques](2.gif)
 
-
-# 🎧 "Advanced Neural Techniques for Audio Analysis and Processing"
 
 ![Python](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue)
 ![License](https://img.shields.io/badge/License-MIT-red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yourusername/advanced-audio-nn)
+
+## Contributors 🧑‍💻
+
+Meet the brilliant minds behind this project:
+
+- **Anuj Attri (23M0808)** 👨‍🎓
+- **Arnav Attri (23M0811**) 👨‍🎓
+- **Pratham Tarjule (20D110029)** 👨‍🎓
 
 ## Introduction 🌟
  This repository contains three advanced Jupyter notebooks that demonstrate innovative uses of neural networks for audio analysis, transcription, and processing.
