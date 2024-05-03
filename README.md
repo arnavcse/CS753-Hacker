@@ -54,6 +54,33 @@ Explore a sophisticated architecture that combines Temporal U-Net with Squeezefo
 
 ---
 
+**What was your assigned hacker paper and how does what you've implemented relate to it?**
+
+Paper Assigned: Squeezeformer: An Efficient Transformer for Automatic Speech Recognition 
+
+Our Squeezeformer.ipynb implements several components related to the Temporal U-Net architecture, which is a deep learning model designed for sequence-to-sequence tasks, such as audio source separation or speech enhancement.
+
+1. **Squeezeformer Block**
+
+2. **Squeezeformer**:
+
+3. **Depthwise Separable Convolution Subsampling**:
+
+4. **Unified Activations with Squeezeformer Block**:
+   
+   
+
+**What did you newly implement, where was the code mainly derived from?**
+
+We have tried with Open source Whisper Model to calculate WER on test-clean dataset from librespeech as there was no training script available for Squeezeformer.
+
+Our code was mainly derived from multiple sources including Github, but is majorly written by us.
+
+***Demo is shown in Wav2Vec.ipynb***
+
+
+---
+
 ## Getting Started 🚀
 
 **Ready to Dive In?** These notebooks are fully implemented and ready to run, offering a seamless experience right out of the box. Simply download, open, and execute to explore the cutting-edge techniques in audio processing:
