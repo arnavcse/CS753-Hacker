@@ -60,7 +60,7 @@ Ready to Dive In? These notebooks are fully implemented and ready to run, offeri
 
 bash
 Copy code
-git clone https://github.com/yourusername/advanced-audio-nn.git
+git clone https://github.com/arnavcse/CS753-Hacker.git
 cd advanced-audio-nn
 jupyter lab
 With everything set up for you, getting started is as easy as pie! 🥧
